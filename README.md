@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Geeklinus&show_icons=true&hide_border=true" />
 
 ### _Hi there!_
-💻 Computer hobbyists<br>
-🎓 High school students<br>
-☕ Talk is cheap. Show me the code<br>
+💻 Computer hobbyist<br>
+🎓 High school student<br>
+☕ Talk is cheap. Show me the code.<br>
 
 
 ### _Contact with me_
